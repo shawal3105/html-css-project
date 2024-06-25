@@ -1,0 +1,50 @@
+body{
+    background-image: url(/images/bgform.avif);
+    background-size: cover;
+}
+
+.cheak-form{
+    color: #fff;
+background-image: url(/images/formbg.jpg);
+background-size: cover;
+   margin-left: 35%;
+    box-shadow: 0 0 30px rgba(0,0,0,0.3);
+width: 35%;
+height: 100%;
+border-radius: 8px;
+text-align: center;
+}
+.cheak-form h1{
+    color:green;
+
+}
+ .input p{
+     text-align: left;
+    padding: 0px 0px 0px 35px ;
+    font-weight: bold;
+color:black;
+
+    
+}
+.cheak-form input{
+    background: none;
+    border:transparent;
+    width: 80%;
+    height:25px;
+    border-radius: 5px;
+   
+    
+}
+button{
+    background: green;
+    color: #fff;
+    /* text-decoration:none; */
+    padding: 12px 30px;
+    width: 50%;
+    border-radius: 8px;
+    margin-top: 20px;
+    /* display: inline-block; */
+}
+
+                                                            
+
